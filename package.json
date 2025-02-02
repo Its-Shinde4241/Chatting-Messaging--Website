@@ -4,7 +4,7 @@
   "description": "CHIT-CHAT is a real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Socket.io for seamless real-time communication.",
   "main": "index.js",
   "scripts": {
-    "build": "cd client && npm run build",
+    "build": "npm run build",
     "start": "node server.js"
   },
   "keywords": [],
