@@ -21,9 +21,9 @@ CHIT-CHAT is a real-time chat application built using the MERN stack (MongoDB, E
 - **Authentication:** JWT (JSON Web Tokens)
 
 ## Clone Or Visit Website
-- **1.Clone the repository:** git clone https://github.com/Techyshubhs/CHIT-CHAT-Application 
+- **1.Clone the repository:** https://github.com/Techyshubhs/Chatting-Messaging--Website
 
-- **2.Visit the project:** https://chit-chat-p3w8.onrender.com
+- **2.Visit the project:** https://chitchat-kds1.onrender.com/login
 
 ## Contact
 
