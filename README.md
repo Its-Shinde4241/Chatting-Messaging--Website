@@ -29,5 +29,5 @@ CHIT-CHAT is a real-time chat application built using the MERN stack (MongoDB, E
 
 For any queries or suggestions, feel free to reach out at:
 
-- **GitHub:** [Techyshubhs](https://github.com/Techyshubhs)
+- **GitHub:** [Its-Shinde4241](https://github.com/Its-Shinde4241)
 - **Email:** shindeshubham5356@gmail.com
