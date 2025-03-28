@@ -18,7 +18,7 @@ const __dirname = path.resolve();
 app.use(express.json({ limit: "50mb" })); // Increase limit to 50MB
 app.use(cookieParser());
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "http://localhost:5174",
     credentials: true,
 }
 ))
